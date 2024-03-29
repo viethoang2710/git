@@ -100,4 +100,7 @@ Cài đặt email hoặc tên mới: git config – global user.name = “H�
 ## Git remote
 - Công dụng: Dùng để check emote/source đa có hoặc thêm remote.
 - Cách dùng: git remote để kiểm tra và liệt kê. Và git remote add <: remote_url:> để thêm.
-- test
+
+
+
+### Xem them thong tin ve git [click here](https://www.w3schools.com/git/)
