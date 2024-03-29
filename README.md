@@ -27,7 +27,7 @@
 
 -----------
 # Kien truc cua Git
-
+![alt text](image.png)
 ## Working Directory
 - Working directory là nơi các file mới được tạo, file cũ bị xóa hoặc nơi thực hiện các thay đổi đối với các file đã có. 
 - Sau khi thay đổi được thực hiện, chúng sẽ được thêm vào Staging area. 
@@ -42,6 +42,7 @@
 - Các nhà phát triển phải lưu trữ và chia sẻ những thư mục, tệp văn bản và tài liệu khác trong quá trình phát triển phần mềm.
 --------------
 # CAC LENH CO BAN CUA GIT
+
 
 ## Git init
 - Công dụng: Dùng để khởi tạo 1 git repository cho một dự án mới hoặc đã có sẵn trước đó.
